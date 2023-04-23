@@ -312,7 +312,7 @@ this.getBeanClassLoader());
 
 Spring Boot在启动的时候从类路径下的META-INF/spring.factorys中获取的EnableAutoConfiguration指定的值；
 
-将这些值作为自动配置类导入到容器中，自动配置就生效了。 ![2.factories](E:\工作文档\SpringBoot\images\2.factories.jpg)
+将这些值作为自动配置类导入到容器中，自动配置就生效了。 ![2.factories](images\2.factories.jpg)
 
 J2EE的整体解决方案
 
