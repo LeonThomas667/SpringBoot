@@ -294,7 +294,7 @@ AutoConfigurationImportSelector：导入组件选择器
 会给容器非常多的自动配置类，（xxxAutoConfiguration）;就是给容器中导入这个场景需要的所有组件，并配置
 好这些组件。 
 
-![1.configuration](E:\工作文档\SpringBoot\images\1.configuration.jpg)
+![1.configuration](..\images\1.configuration.jpg)
 
 ```java
 protected List<String> getCandidateConfigurations(AnnotationMetadata metadata,
