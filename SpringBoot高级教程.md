@@ -1,4 +1,4 @@
-# SpringBoot的高级教程
+﻿# SpringBoot的高级教程
 
 ## 一、SpringBoot缓存
 
@@ -33,7 +33,7 @@ Java Caching定义了5个核心接口
 
   存储在Cache的条目有一个定义的有效期，一旦超过这个时间，就会设置过期的状态，过期无法被访问，更新，删除。缓存的有效期可以通过ExpiryPolicy设置。
 
-  ![35.cache](E:\工作文档\SpringBoot\images2\35.cache.png)
+  ![35.cache](images2\35.cache.png)
 
   
 
